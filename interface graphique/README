@@ -1,0 +1,8 @@
+VUKASINOVIC Stefan
+STEIER Benjamin
+
+compilation, dans le répértoire contentant tout les fichiers, taper :
+
+gcc *.c `sdl-config --cflags --libs`
+
+l'éxxecutable ./a.out lance théoriquement le menu du jeu.
